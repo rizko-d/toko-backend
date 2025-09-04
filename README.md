@@ -121,6 +121,3 @@ Project ini menggunakan lisensi MIT — lihat file LICENSE untuk detail.
 Dibuat oleh Rizko Febri Raachmayadi
 
 https://github.com/rizko-d
-
-```
-
